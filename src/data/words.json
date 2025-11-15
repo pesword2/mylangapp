@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "english": "hello",
+    "turkish": "merhaba",
+    "level": "A1",
+    "pronunciation": "helou",
+    "example_sentence": "Hello, how are you?"
+  },
+  {
+    "id": "2",
+    "english": "water",
+    "turkish": "su",
+    "level": "A1",
+    "pronunciation": "votır",
+    "example_sentence": "I need some water."
+  },
+  {
+    "id": "3",
+    "english": "computer",
+    "turkish": "bilgisayar",
+    "level": "A2",
+    "pronunciation": "kompiyutır",
+    "example_sentence": "My computer is fast."
+  },
+  {
+    "id": "4",
+    "english": "practice",
+    "turkish": "pratik",
+    "level": "B1",
+    "pronunciation": "praktis",
+    "example_sentence": "You improve with practice."
+  },
+  {
+    "id": "5",
+    "english": "achievement",
+    "turkish": "başarı",
+    "level": "B2",
+    "pronunciation": "açivmınt",
+    "example_sentence": "This is a great achievement."
+  }
+]
+
