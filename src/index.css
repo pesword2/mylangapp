@@ -1,8 +1,51 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-  color: #fff;
+:root{
+  --primary-start:#6a5af9;
+  --primary-end:#7b61ff;
+  --success:#2db67b;
+  --a1:#2db67b;
+  --a2:#f2c94c;
+  --b1:#f2994a;
+  --b2:#eb5757;
+  --muted:#666;
+  --card-bg:#fff;
+  --shadow:0 6px 18px rgba(11,15,30,0.08);
+  font-family:Inter,Roboto,system-ui,Arial;
+}
+
+body{
+  margin:0;
+  background:linear-gradient(180deg,#0f1724 0%,#0b1220 100%);
+  color:#0f1724;
+  padding:20px;
+}
+
+.container{max-width:920px;margin:0 auto}
+.card{background:var(--card-bg);border-radius:10px;padding:18px;box-shadow:var(--shadow);margin-bottom:20px}
+
+.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px;color:#fff}
+.app-title{font-weight:700;background:linear-gradient(90deg,var(--primary-start),var(--primary-end));
+  -webkit-background-clip:text;background-clip:text;color:transparent;font-size:18px}
+
+.level-btn{padding:6px 10px;border-radius:8px;border:none;font-weight:600;font-size:13px;cursor:pointer}
+.primary{background:linear-gradient(90deg,var(--primary-start),var(--primary-end));color:#fff;border:none;
+  padding:10px 14px;border-radius:10px;font-weight:700;cursor:pointer}
+
+.word-big{font-size:48px;font-weight:800;text-align:center;margin:18px 0}
+.pron{font-size:20px;color:var(--muted);text-align:center;margin-bottom:10px}
+.example{font-size:15px;color:#222;background:#f7f8fb;padding:10px;border-radius:8px;margin-top:8px}
+.controls{display:flex;gap:8px;justify-content:center;margin-top:12px;flex-wrap:wrap}
+.icon-btn{background:transparent;border:1px solid #eee;padding:8px;border-radius:8px;cursor:pointer}
+
+.progress-wrap{display:flex;align-items:center;gap:12px;margin-top:12px}
+.progress-bar{height:10px;background:#eee;border-radius:8px;flex:1;overflow:hidden}
+.progress-fill{height:100%;background:linear-gradient(90deg,var(--primary-start),var(--primary-end));width:0%}
+
+.stats-grid{display:flex;gap:12px;flex-wrap:wrap;margin-top:12px}
+.stat-card{flex:1;min-width:220px;padding:12px;border-radius:10px;background:#fff;box-shadow:var(--shadow)}
+.level-row{display:flex;justify-content:space-between;padding:8px 0;border-top:1px dashed #eee;font-size:14px}
+
+@media(max-width:640px){
+  .word-big{font-size:36px}
+  .pron{font-size:16px}
 }
 

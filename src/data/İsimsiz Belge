@@ -1,0 +1,256 @@
+[
+  {
+    "id": "101",
+    "english": "and",
+    "turkish": "ve",
+    "level": "A1",
+    "pronunciation": "end",
+    "example_sentence": "I like tea and coffee."
+  },
+  {
+    "id": "102",
+    "english": "or",
+    "turkish": "veya",
+    "level": "A1",
+    "pronunciation": "or",
+    "example_sentence": "Do you want tea or coffee?"
+  },
+  {
+    "id": "103",
+    "english": "so",
+    "turkish": "bu yüzden",
+    "level": "A2",
+    "pronunciation": "so",
+    "example_sentence": "It was raining, so I took an umbrella."
+  },
+  {
+    "id": "104",
+    "english": "very",
+    "turkish": "çok",
+    "level": "A1",
+    "pronunciation": "ver-i",
+    "example_sentence": "She is very smart."
+  },
+  {
+    "id": "105",
+    "english": "too",
+    "turkish": "çok",
+    "level": "A1",
+    "pronunciation": "tuu",
+    "example_sentence": "This soup is too hot."
+  },
+  {
+    "id": "106",
+    "english": "also",
+    "turkish": "ayrıca",
+    "level": "A2",
+    "pronunciation": "ol-so",
+    "example_sentence": "I am learning English. I am also learning German."
+  },
+  {
+    "id": "107",
+    "english": "here",
+    "turkish": "burada",
+    "level": "A1",
+    "pronunciation": "hiır",
+    "example_sentence": "Please come here."
+  },
+  {
+    "id": "108",
+    "english": "there",
+    "turkish": "orada",
+    "level": "A1",
+    "pronunciation": "deyr",
+    "example_sentence": "The book is over there."
+  },
+  {
+    "id": "109",
+    "english": "now",
+    "turkish": "şimdi",
+    "level": "A1",
+    "pronunciation": "nav",
+    "example_sentence": "I have to go now."
+  },
+  {
+    "id": "110",
+    "english": "then",
+    "turkish": "sonra",
+    "level": "A1",
+    "pronunciation": "den",
+    "example_sentence": "First, I will study, then I will sleep."
+  },
+  {
+    "id": "111",
+    "english": "how",
+    "turkish": "nasıl",
+    "level": "A1",
+    "pronunciation": "hav",
+    "example_sentence": "How are you?"
+  },
+  {
+    "id": "112",
+    "english": "what",
+    "turkish": "ne",
+    "level": "A1",
+    "pronunciation": "vat",
+    "example_sentence": "What is your name?"
+  },
+  {
+    "id": "113",
+    "english": "when",
+    "turkish": "ne zaman",
+    "level": "A1",
+    "pronunciation": "ven",
+    "example_sentence": "When is your birthday?"
+  },
+  {
+    "id": "114",
+    "english": "where",
+    "turkish": "nerede",
+    "level": "A1",
+    "pronunciation": "veyr",
+    "example_sentence": "Where do you live?"
+  },
+  {
+    "id": "115",
+    "english": "who",
+    "turkish": "kim",
+    "level": "A1",
+    "pronunciation": "hu",
+    "example_sentence": "Who is that man?"
+  },
+  {
+    "id": "116",
+    "english": "why",
+    "turkish": "neden",
+    "level": "A1",
+    "pronunciation": "vay",
+    "example_sentence": "Why are you late?"
+  },
+  {
+    "id": "117",
+    "english": "which",
+    "turkish": "hangi",
+    "level": "A2",
+    "pronunciation": "viç",
+    "example_sentence": "Which color do you prefer?"
+  },
+  {
+    "id": "118",
+    "english": "father",
+    "turkish": "baba",
+    "level": "A1",
+    "pronunciation": "fa-dır",
+    "example_sentence": "My father is a doctor."
+  },
+  {
+    "id": "119",
+    "english": "mother",
+    "turkish": "anne",
+    "level": "A1",
+    "pronunciation": "ma-dır",
+    "example_sentence": "My mother is cooking."
+  },
+  {
+    "id": "120",
+    "english": "brother",
+    "turkish": "erkek kardeş",
+    "level": "A1",
+    "pronunciation": "bra-dır",
+    "example_sentence": "I have one brother."
+  },
+  {
+    "id": "121",
+    "english": "sister",
+    "turkish": "kız kardeş",
+    "level": "A1",
+    "pronunciation": "sis-tır",
+    "example_sentence": "My sister is younger than me."
+  },
+  {
+    "id": "122",
+    "english": "parent",
+    "turkish": "ebeveyn",
+    "level": "A2",
+    "pronunciation": "per-ınt",
+    "example_sentence": "You should respect your parents."
+  },
+  {
+    "id": "123",
+    "english": "baby",
+    "turkish": "bebek",
+    "level": "A1",
+    "pronunciation": "bey-bi",
+    "example_sentence": "The baby is crying."
+  },
+  {
+    "id": "124",
+    "english": "job",
+    "turkish": "iş",
+    "level": "A1",
+    "pronunciation": "cab",
+    "example_sentence": "He is looking for a job."
+  },
+  {
+    "id": "125",
+    "english": "student",
+    "turkish": "öğrenci",
+    "level": "A1",
+    "pronunciation": "stu-dınt",
+    "example_sentence": "I am a student."
+  },
+  {
+    "id": "126",
+    "english": "doctor",
+    "turkish": "doktor",
+    "level": "A1",
+    "pronunciation": "dak-tır",
+    "example_sentence": "I need to see a doctor."
+  },
+  {
+    "id": "127",
+    "english": "police",
+    "turkish": "polis",
+    "level": "A2",
+    "pronunciation": "po-lis",
+    "example_sentence": "Call the police!"
+  },
+  {
+    "id": "128",
+    "english": "firefighter",
+    "turkish": "itfaiyeci",
+    "level": "A2",
+    "pronunciation": "fayr-fay-tır",
+    "example_sentence": "The firefighter saved the cat."
+  },
+  {
+    "id": "129",
+    "english": "buy",
+    "turkish": "satın almak",
+    "level": "A1",
+    "pronunciation": "bay",
+    "example_sentence": "I want to buy a new phone."
+  },
+  {
+    "id": "130",
+    "english": "sell",
+    "turkish": "satmak",
+    "level": "A2",
+    "pronunciation": "sel",
+    "example_sentence": "He wants to sell his car."
+  },
+  {
+    "id": "131",
+    "english": "pay",
+    "turkish": "ödemek",
+    "level": "A2",
+    "pronunciation": "pey",
+    "example_sentence": "I need to pay the bills."
+  },
+  {
+    "id": "132",
+    "english": "cost",
+    "turkish": "mal olmak",
+    "level": "A2",
+    "pronunciation": "kost",
+    "example_sentence": "How
