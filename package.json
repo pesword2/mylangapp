@@ -2,6 +2,7 @@
   "name": "mylangapp",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,6 +13,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^5.0.0"
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^7.2.2"
   }
 }
