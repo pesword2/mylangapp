@@ -1,17 +1,56 @@
-# React + Vite
+# Depo - Dil Öğrenme Uygulaması
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Depo**, React ve Vite teknolojileriyle geliştirilmiş, kullanıcıların yeni kelimeler öğrenebileceği, kelime listeleri oluşturabileceği ve quizlerle bilgisini test edebileceği minimalist bir dil öğrenme uygulamasıdır.
 
-Currently, two official plugins are available:
+## 🚀 Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Kelime Yönetimi:** Kelime ekleyin, listeleyin ve yönetin.
+- **Flashcard Modu:** Kelimeleri kartlar halinde öğrenin.
+- **Quiz Sistemi:** Bilginizi çoktan seçmeli sorularla test edin.
+- **Veri Kalıcılığı:** Verileriniz tarayıcınızda güvenle saklanır.
 
-## React Compiler
+## 🛠️ Teknik Gereksinimler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Node.js:** v18+
+- **Paket Yöneticisi:** npm / yarn / pnpm
+- **Framework:** React 18+
+- **Build Tool:** Vite
 
-## Expanding the ESLint configuration
+## 📦 Kurulum ve Çalıştırma
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# mylangapp
+```bash
+# Bağımlılıkları yükle
+npm install
+
+# Geliştirme sunucusunu başlat
+npm run dev
+
+# Üretim derlemesi al
+npm run build
+```
+
+## 📂 Proje Yapısı
+
+```
+/workspace
+├── src/                # Kaynak kodlar
+├── index.html          # Ana HTML dosyası
+├── vite.config.js      # Vite yapılandırması
+├── workflow.md         # Geliştirme iş akışı ve yol haritası
+└── README.md           # Bu dosya
+```
+
+## 🗺️ Geliştirme Süreci
+
+Projenin detaylı geliştirme adımları ve hedefleri için [workflow.md](./workflow.md) dosyasına göz atın.
+
+## 🤝 Katkıda Bulunma
+
+1. Projeyi fork edin.
+2. Yeni bir branch oluşturun (`feature/yeni-ozellik`).
+3. Değişikliklerinizi commit edin.
+4. Pull Request gönderin.
+
+---
+
+*Not: Bu proje Vite'ın React şablonu temel alınarak oluşturulmuştur.*
