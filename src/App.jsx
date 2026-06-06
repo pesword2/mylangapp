@@ -10,7 +10,7 @@ export default function App(){
   const [session,setSession] = useState(null); // {level,mode}
   const start = (level,mode) => setSession({level,mode});
   const exit = ()=> setSession(null);
-
+  
   return (
     <>
       <Header />
@@ -25,4 +25,3 @@ export default function App(){
     </>
   );
 }
-
